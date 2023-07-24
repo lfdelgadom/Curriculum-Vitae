@@ -1,18 +1,18 @@
 ---
 name: Luis Fernando Delgado Muñoz
-qualifications: Agroindustrial Engeneer, MSc
-position: "Statistical data analyst"
+qualifications: Agroindustrial Engineer, MSc
+position: "Statistical data analyst - Professor"
 address: "Cali, Colombia"
-profilepic: "./img/Luis Fernando.png"
+# profilepic: "./img/Luis Fernando.png"
 phone: +57 318 834 0741
 # www: shaziaruybal.com
 email: "lfdelgadom@unal.edu.co"
-twitter: lfdelgadom
+#twitter: lfdelgadom
 github: lfdelgadom
 linkedin: lfdelgadom
 # orcid: "0000-0002-0495-179X"
 # googlescholar: "E7dY4foAAAAJ"
-aboutme: "Agro-industrial engineer with expertise in data handle and data analytics from field and quality postharvest trials of cassava breeding populations. I'm interested in combining these approaches to breeding population-based studies of economical traits, particularly dry matter, yield, diseases resistant and quality postharvest traits. My work has involved international collaborations in France and the Americas, and spans harvesting breeding populations, to evaluation and characterization of quality traits in the lab, to the downstream analytics using advanced approaches and digital tools. I am an avid `R` user for data processing, analytics, modelling,visualization, communication and reports."
+aboutme: "I am a dedicated and passionate MSc. Agro-industrial engineer with expertise in data handling, processing, and analytics of agronomic and livestock sciences. My professional journey spans as a Data Analyst in the Cassava Breeding Program at CIAT and a University Professor. I am driven by my commitment to combining data-driven approaches with breeding population-based studies of economical traits in agriculture. As an educator, I focus on empowering students in data handling, processing, analytics, and gaining insights from data, fostering the next generation of data-driven leaders. Proficient in R and Python, I efficiently manipulate and analyze large datasets, develop statistical models, create compelling visualizations, and effectively communicate findings to diverse stakeholders."
 headcolor: 414141
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
@@ -102,9 +102,6 @@ research %>%
                    why = details,
                    .protect = FALSE)
 ```
-
-<!-- \newpage -->
-\newpage
 
 # Teaching and Supervision
 
@@ -202,6 +199,28 @@ presentations %>%
                 paste0(year, "\\newline~\\newline"),
                 .protect = FALSE)
 ```
+
+# Publications
+\footnotesize
+```{r}
+# did not like this format so will add manually for now
+# bibliography_entries(here("data", "papers.bib")) 
+```
+
+
+\setlength{\leftskip}{0cm}
+**2023**
+
+\setlength{\leftskip}{1cm}
+Meghar, K., Tran, T., **Delgado, L.F.**, Ospina, M.A., Moreno, J.L., Luna, J., Londono, L.F., Dufour, D., Davrieux, F.(2022). *Hyperspectral imaging for the determinationof relevant cooking quality traits of boiledcassava*.J Sci Food Agric. https://doi.org/10.1002/jsfa.12654
+
+\setlength{\leftskip}{0cm}
+**2022** 
+
+\setlength{\leftskip}{1cm}
+Vásquez Amariles, H., Saavedra Ospina, R., Guerrero Cobos, D., Marín Beitia, E., Escobar Hernández, G., Cifuentes Gutiérrez, C.A., Caicedo Vallejo, A.M., Mosquera Escobar, L.E., **Delgado Muñoz, L.F.** (2022). **Opciones tecnológicas para mejorar las prácticas agronómicas en el cultivo de aguacate Hass en zona de ladera, Colombia: Parcela demostrativa de aguacate Hass establecida en zona de ladera, Colombia.** Bogotá: Universidad Nacional de Colombia. https://repositorio.unal.edu.co/handle/unal/82746
+
+Vásquez Amariles, H., Guerrero Cobos, D., Castro López, V., Gutiérrez Pineda O., Gutiérrez Pineda Caicedo Vallejo, A.M., Mosquera Escobar, L.E., **Delgado Muñoz, L.F.**  (2022). **Opciones tecnológicas para mejorar las prácticas agronómicas en el cultivo de mora en zona de ladera, Colombia: Parcela demostrativa de mora establecida en zona de ladera.** Universidad Nacional de Colombia. https://repositorio.unal.edu.co/handle/unal/82722
 
 # References
 
