@@ -1,18 +1,18 @@
 ---
 name: Luis Fernando Delgado Muñoz
 qualifications: Agroindustrial Engineer, MSc
-position: "Statistical data analyst - Professor"
+position: "Data scientist - Professor"
 address: "Cali, Colombia"
 # profilepic: "./img/Luis Fernando.png"
 phone: +57 318 834 0741
-# www: shaziaruybal.com
+# www: https://alliancebioversityciat.org/who-we-are/luis-fernando-delgado
 email: "lfdelgadom@unal.edu.co"
 #twitter: lfdelgadom
 github: lfdelgadom
 linkedin: lfdelgadom
-# orcid: "0000-0002-0495-179X"
+orcid: "0000-0002-5443-4678"
 # googlescholar: "E7dY4foAAAAJ"
-aboutme: "I am a dedicated and passionate MSc. Agro-industrial engineer with expertise in data handling, processing, and analytics of agronomic and livestock sciences. My professional journey spans as a Data Analyst in the Cassava Breeding Program at CIAT and a University Professor. I am driven by my commitment to combining data-driven approaches with breeding population-based studies of economical traits in agriculture. As an educator, I focus on empowering students in data handling, processing, analytics, and gaining insights from data, fostering the next generation of data-driven leaders. Proficient in R and Python, I efficiently manipulate and analyze large datasets, develop statistical models, create compelling visualizations, and effectively communicate findings to diverse stakeholders."
+aboutme: "I am an MSc. Agro-Industrial Engineer with expertise in data handling and analysis in agronomy. My experience spans roles as a data scientist in cassava breeding at Alliance of Bioversity and CIAT, and as a professor. I combine data-driven approaches with agricultural studies, proficient in R, Python, command line, and GIT/GitHub. Skilled in managing large datasets, developing statistical models, and effective communication. My commitment to data science in agriculture is underscored by my dedication to teaching and empowering the next generation of data-savvy professionals."
 headcolor: 414141
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
@@ -103,6 +103,8 @@ research %>%
                    .protect = FALSE)
 ```
 
+<!-- \newpage -->
+
 # Teaching and Supervision
 
 ```{r}
@@ -114,7 +116,6 @@ teaching %>%
                    why = details,
                    .protect = FALSE)
 ```
-
 
 ```{r eval=FALSE, include=FALSE}
 # leadership %>%
@@ -154,7 +155,6 @@ skills %>%
   row_spec(0, bold = T)
 ```
 
-
 ```{r eval=FALSE, include=FALSE}
 # awards %>% 
 #   detailed_entries(what = institution,
@@ -171,7 +171,6 @@ skills %>%
 # did not like this format so will add manually for now
 # bibliography_entries(here("data", "papers.bib")) 
 ```
-
 
 ```{r eval=FALSE, include=FALSE}
 # tools %>%
@@ -190,7 +189,6 @@ skills %>%
 
 # Selected presentations
 
-
 ```{r}
 presentations <- presentations %>% filter(include == "yes")
 
@@ -201,39 +199,38 @@ presentations %>%
 ```
 
 # Publications
+
 \footnotesize
+
 ```{r}
 # did not like this format so will add manually for now
 # bibliography_entries(here("data", "papers.bib")) 
 ```
 
-
 \setlength{\leftskip}{0cm}
+
 **2023**
 
 \setlength{\leftskip}{1cm}
-Meghar, K., Tran, T., **Delgado, L.F.**, Ospina, M.A., Moreno, J.L., Luna, J., Londono, L.F., Dufour, D., Davrieux, F.(2022). *Hyperspectral imaging for the determinationof relevant cooking quality traits of boiledcassava*.J Sci Food Agric. https://doi.org/10.1002/jsfa.12654
+
+Meghar, K., Tran, T., **Delgado, L.F.**, Ospina, M.A., Moreno, J.L., Luna, J., Londono, L.F., Dufour, D., Davrieux, F.(2023). *Hyperspectral imaging for the determinationof relevant cooking quality traits of boiledcassava*.J Sci Food Agric. <https://doi.org/10.1002/jsfa.12654>
+
+Mestres C., Taylor M., McDougall G., Arufe S., Tran T., Nuwamanya E., Dufour D., Nakitto M., Meghar K., Rinaldo D., Ollier L., Domingo R., Moreno J.L., **Delgado Muñoz, L.F.**, Kouassi H.A., Diby N'Nan Afoué S., Mbeguie-A-Mbeguie D., Akissoe N., Adinsi L., Rolland-Sabate A. (2023). *Contrasting effects of polysaccharide components on the cooking properties of Roots, Tubers and Bananas (RTBs)*.J Sci Food Agric. <https://doi.org/10.1002/jsfa.12914>
+
+Ayetigbo, O., Arufe, S., Kouassi, A., Adinsi, L., Adesokan, M., Escobar, A., **Delgado, L. F.**, Tanimola, A., Oroniran, O., Kendine Vepowo, C., Nakitto, M., Khakasa, E., Chijioke, U., Nowakunda, K., Ngoh Newilah, G., Otegbayo, B., Akissoe, N., Lechaudel, M., Tran, T., ... Dufour, D. (2023). **Review of instrumental texture measurements as phenotypic tool to assess textural diversity of root, tuber and banana food products.** Journal of the Science of Food and Agriculture, jsfa.13072. <https://doi.org/10.1002/jsfa.13072>
 
 \setlength{\leftskip}{0cm}
-**2022** 
+
+**2022**
 
 \setlength{\leftskip}{1cm}
-Vásquez Amariles, H., Saavedra Ospina, R., Guerrero Cobos, D., Marín Beitia, E., Escobar Hernández, G., Cifuentes Gutiérrez, C.A., Caicedo Vallejo, A.M., Mosquera Escobar, L.E., **Delgado Muñoz, L.F.** (2022). **Opciones tecnológicas para mejorar las prácticas agronómicas en el cultivo de aguacate Hass en zona de ladera, Colombia: Parcela demostrativa de aguacate Hass establecida en zona de ladera, Colombia.** Bogotá: Universidad Nacional de Colombia. https://repositorio.unal.edu.co/handle/unal/82746
 
-Vásquez Amariles, H., Guerrero Cobos, D., Castro López, V., Gutiérrez Pineda O., Gutiérrez Pineda Caicedo Vallejo, A.M., Mosquera Escobar, L.E., **Delgado Muñoz, L.F.**  (2022). **Opciones tecnológicas para mejorar las prácticas agronómicas en el cultivo de mora en zona de ladera, Colombia: Parcela demostrativa de mora establecida en zona de ladera.** Universidad Nacional de Colombia. https://repositorio.unal.edu.co/handle/unal/82722
+Vásquez Amariles, H., Saavedra Ospina, R., Guerrero Cobos, D., Marín Beitia, E., Escobar Hernández, G., Cifuentes Gutiérrez, C.A., Caicedo Vallejo, A.M., Mosquera Escobar, L.E., **Delgado Muñoz, L.F.** (2022). **Opciones tecnológicas para mejorar las prácticas agronómicas en el cultivo de aguacate Hass en zona de ladera, Colombia: Parcela demostrativa de aguacate Hass establecida en zona de ladera, Colombia.** Bogotá: Universidad Nacional de Colombia. <https://repositorio.unal.edu.co/handle/unal/82746>
+
+Vásquez Amariles, H., Guerrero Cobos, D., Castro López, V., Gutiérrez Pineda O., Gutiérrez Pineda Caicedo Vallejo, A.M., Mosquera Escobar, L.E., **Delgado Muñoz, L.F.** (2022). **Opciones tecnológicas para mejorar las prácticas agronómicas en el cultivo de mora en zona de ladera, Colombia: Parcela demostrativa de mora establecida en zona de ladera.** Universidad Nacional de Colombia. <https://repositorio.unal.edu.co/handle/unal/82722>
 
 # References
 
-- Thierry Tran, PhD. Lead cassava postharvest quality laboratory CIAT. Phone: +4450000 ext: 3063 Email: thierry.Tran@cgiar.org 
+-   Xiaofei Zhang, PhD. Global cassava breeder CIAT. Phone: +1 (612)802-8711 Email: [Xiaofei.Zhang\@cgiar.org](mailto:Xiaofei.Zhang@cgiar.org){.email}
 
-- Luis Fernando Londoño, PhD(c), MSc. Senior cassava postharvest quality laboratory coordinator CIAT.
-Phone: +4450000 ext: 3063
-Celephone: +57 310 4315682
-Email: L.Londono@cgiar.org
-
-- Daniel Gerardo Cayón Salinas, PhD. Professor Universidad Nacional de Colombia Sede Palmira.
-Phone: +572 2868888 Ext.: 35132-3513
-Celephone: +57 315 2489251
-Email: dgcayons@unal.edu.co
-
-
+-   Danilo Moreta, PhD. Postdoctoral researcher Cassava program CIAT. Phone: +57 321 2531441 Email: [d.moreta\@cgiar.org](mailto:d.moreta@cgiar.org){.email}
