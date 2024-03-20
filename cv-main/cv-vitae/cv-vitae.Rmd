@@ -214,7 +214,7 @@ presentations %>%
 
 \setlength{\leftskip}{1cm}
 
-Iragaba, P., Adinsi, L., **Delgado, L. F.**, Nanyonjo, A. R., Nuwamanya, E., Wembabazi, E., Kanaabi, M., Honfozo, L., Hotegni, F., Djibril-Moussa, I., Londoño, L. F., Bugaud, C., Dufour, D., Kawuki, R. S., Akissoé, N., & Tran, T.(2024). *Definition of sensory and instrumental thresholds of acceptability for selection of cassava genotypes with improved boiling properties*.J Sci Food Agric. <https://doi.org/10.1002/jsfa.13363>
+Iragaba, P., Adinsi, L., **Delgado, L. F.**, Nanyonjo, A. R., Nuwamanya, E., Wembabazi, E., Kanaabi, M., Honfozo, L., Hotegni, F., Djibril-Moussa, I., Londoño, L. F., Bugaud, C., Dufour, D., Kawuki, R. S., Akissoé, N., & Tran, T.(2024). **Definition of sensory and instrumental thresholds of acceptability for selection of cassava genotypes with improved boiling properties**.J Sci Food Agric. <https://doi.org/10.1002/jsfa.13363>
 
 \setlength{\leftskip}{0cm}
 
@@ -222,9 +222,9 @@ Iragaba, P., Adinsi, L., **Delgado, L. F.**, Nanyonjo, A. R., Nuwamanya, E., Wem
 
 \setlength{\leftskip}{1cm}
 
-Meghar, K., Tran, T., **Delgado, L.F.**, Ospina, M.A., Moreno, J.L., Luna, J., Londono, L.F., Dufour, D., Davrieux, F.(2023). *Hyperspectral imaging for the determination of relevant cooking quality traits of boiledcassava*.J Sci Food Agric. <https://doi.org/10.1002/jsfa.12654>
+Meghar, K., Tran, T., **Delgado, L.F.**, Ospina, M.A., Moreno, J.L., Luna, J., Londono, L.F., Dufour, D., Davrieux, F.(2023). **Hyperspectral imaging for the determination of relevant cooking quality traits of boiledcassava**.J Sci Food Agric. <https://doi.org/10.1002/jsfa.12654>
 
-Mestres C., Taylor M., McDougall G., Arufe S., Tran T., Nuwamanya E., Dufour D., Nakitto M., Meghar K., Rinaldo D., Ollier L., Domingo R., Moreno J.L., **Delgado Muñoz, L.F.**, Kouassi H.A., Diby N'Nan Afoué S., Mbeguie-A-Mbeguie D., Akissoe N., Adinsi L., Rolland-Sabate A. (2023). *Contrasting effects of polysaccharide components on the cooking properties of Roots, Tubers and Bananas (RTBs)*.J Sci Food Agric. <https://doi.org/10.1002/jsfa.12914>
+Mestres C., Taylor M., McDougall G., Arufe S., Tran T., Nuwamanya E., Dufour D., Nakitto M., Meghar K., Rinaldo D., Ollier L., Domingo R., Moreno J.L., **Delgado Muñoz, L.F.**, Kouassi H.A., Diby N'Nan Afoué S., Mbeguie-A-Mbeguie D., Akissoe N., Adinsi L., Rolland-Sabate A. (2023). **Contrasting effects of polysaccharide components on the cooking properties of Roots, Tubers and Bananas (RTBs)**.J Sci Food Agric. <https://doi.org/10.1002/jsfa.12914>
 
 Ayetigbo, O., Arufe, S., Kouassi, A., Adinsi, L., Adesokan, M., Escobar, A., **Delgado, L. F.**, Tanimola, A., Oroniran, O., Kendine Vepowo, C., Nakitto, M., Khakasa, E., Chijioke, U., Nowakunda, K., Ngoh Newilah, G., Otegbayo, B., Akissoe, N., Lechaudel, M., Tran, T., ... Dufour, D. (2023). **Review of instrumental texture measurements as phenotypic tool to assess textural diversity of root, tuber and banana food products.** J Sci Food Agric. <https://doi.org/10.1002/jsfa.13072>
 
